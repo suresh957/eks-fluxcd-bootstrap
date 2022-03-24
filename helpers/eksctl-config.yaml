@@ -46,7 +46,7 @@ gitops:
   flux:
     gitProvider: github
     flags:
-      owner: <YOUR GH USERNAME>
+      owner: gsuresh957 
       repository: eks-fluxcd-bootstrap
       branch: demo
       path: ./clusters/sandbox/
